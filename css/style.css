@@ -48,6 +48,8 @@ body {
 .stamp:before {
   content: 'CSS3';
   position: absolute;
+  bottom: 0;
+  left: 0;
   font: bold 24px arial;
   color: white;
   opacity: 0.75;
